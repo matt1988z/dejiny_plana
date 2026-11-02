@@ -9,17 +9,17 @@
   "odpoved": ""
  },
  "uvod": {
-  "nadpis": "Dům, kde žil skladatel",
+  "nadpis": "Dům u kostela, 1409–dnes",
   "odstavce": [
-   "Bývalá fara čp. 1 stojí v Plané hned vedle kostela. Přes 150 let se tu psaly matriky pro patnáct vsí v okolí.",
-   "Žili tu mniši z Plas, učení faráři z Prahy i barokní skladatel Jeroným Brixi. Všechno, co tu čtete, má odkaz na původní zápis v archivu."
+   "Bývalá fara čp. 1 stojí v Plané hned vedle gotického kostela. Přes 300 let tu žili faráři, kteří psali matriky pro patnáct vsí v okolí.",
+   "Žili tu mniši z Plas, barokní skladatel Jeroným Brixi, učený farář z Prahy i farář zavražděný loupežníkem. Poslední farář tu uzavřel matriky v roce 1950. Všechno, co tu čtete, má odkaz na původní zápis."
   ],
-  "foto": "mapa_plana_1839_cisarsky_otisk",
-  "foto_popis": "Náves v Plané na mapě stabilního katastru 1839. Fara je zděná budova na pozemku č. 1 vlevo od kostela."
+  "foto": "foto_kostel_plana_1911",
+  "foto_popis": "Kostel v Plané kolem roku 1910. Fara stojí hned vedle (A. Podlaha, Posvátná místa, 1911)."
  },
  "hlavni_dum": "1",
  "pribeh": {"menu": "Příběh fary", "tlacitko": "Přečíst příběh fary", "hlavni": "cp1"},
  "galerie": {"skupiny": []},
- "zajimavosti_na_uvodu": [{"nadpis": "Na faře žil skladatel", "text": "1781–1803 tu jako farář žil cisterciák a skladatel Jeroným Brixi. Zemřel tu na mrtvici v dubnu 1803."}, {"nadpis": "Housle z Prahy", "text": "1815 dostal vesnický kostel housle, violy a violoncello od pražských mistrů a farníci přikoupili trubky a tympány."}, {"nadpis": "Matrika z roku 1644", "text": "Plánské matriky založil uprostřed třicetileté války mnich z Velehradu."}],
+ "zajimavosti_na_uvodu": [{"nadpis": "Na faře žil skladatel", "text": "1781–1803 tu jako farář žil cisterciák a skladatel Jeroným Brixi."}, {"nadpis": "Vražda na faře", "text": "2. dubna 1852 zabil na faře loupežník faráře Karla Nekolu."}, {"nadpis": "Housle z Prahy", "text": "1815 dostal vesnický kostel housle, violy, violoncello, trubky a tympány."}],
  "verejny": false
 }

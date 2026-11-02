@@ -25,3 +25,15 @@ V lednu 1793 zemřel na faře ve věku 61 let malíř Eugen, nejspíš z Krakova
 
 ## Fara byla zděná, ves dřevěná
 Na mapě stabilního katastru z roku 1839 jsou zděné budovy růžové a dřevěné žluté. Fara, kostel a pár staveb u nich jsou růžové. Skoro celá ves kolem je žlutá, domy byly dřevěné. Fara stojí na pozemku číslo 1, stejně jako dnes. [Mapa](/zdroj/plana_katastr_cp1_1839/)
+
+## Farář zavražděný loupežníkem
+V pátek 2. dubna 1852 večer zabil na faře lupič faráře Karla Nekolu. Do matriky se do kolonky „nemoc“ zapsalo jediné slovo: vražda. Farář zemřel bez posledních svátostí. Kdo byl vrah, zatím nevíme. [Zápis](/zdroj/plana_umrti_cp1_nekola_1852/)
+
+## Patronem byl kníže Metternich
+Od roku 1826 patřilo plaské panství rakouskému kancléři Klementu Metternichovi. Jako patron se staral o kostel a faru v Plané. Jeden z nejmocnějších politiků Evropy tak měl na starosti i střechu vesnické fary.
+
+## Zvon z roku 1491
+Ve věži kostela visí zvon s gotickým nápisem: „Leta božího 1491 dokonáno jest skrze mistra Jiříka před svátým Jakubem tu sobotu.“ Je o 150 let starší než nejstarší matrika. [Podlaha 1911](/zdroj/plana_lit_podlaha_1911/)
+
+## Poslední farář uzavřel matriky
+Ludvík Vaníček byl farářem v Plané přes třicet let. Na začátku roku 1950 musel matriky uzavřít, protože jejich vedení převzal stát. Knihy psané na faře od roku 1644 tím skončily. [Uzávěrka](/zdroj/plana_podpis_vanicek_1950/)

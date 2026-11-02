@@ -1,1 +1,16 @@
-[]
+[
+ {
+  "img": "foto_kostel_plana_1911",
+  "popis": "Kostel Nanebevzetí Panny Marie v Plané kolem roku 1910, pohled od východu na gotický presbytář. Fara stojí za kostelem. Z knihy A. Podlahy Posvátná místa království Českého II (1911).",
+  "domy": [
+   "1"
+  ]
+ },
+ {
+  "img": "foto_kostel_interier_1911",
+  "popis": "Vnitřek kostela v Plané kolem roku 1910: barokní oltáře se znaky plaských opatů a vzadu gotický presbytář. Z knihy A. Podlahy Posvátná místa II (1911).",
+  "domy": [
+   "1"
+  ]
+ }
+]

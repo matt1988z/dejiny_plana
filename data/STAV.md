@@ -36,8 +36,8 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 6. Po změně dat spustím `python3 -I tools/kontrola.py`.
 
 ## Rozpracováno (aktualizovat průběžně)
-- Hotovo (2026-11): úmrtí čp. 1 1784–1821 (plana-ps-16) kompletně; 1822–1868 (plana-ps-21, sn. 415–437) jen zběžně – dočíst čp. 1 (1837, 1840 a sn. 425–437).
-- Další: křty/sňatky čp. 1 (kuchařky, čeleď), úmrtí 1869–1911 (plana-ps-32) a 1911–1949 (plana-ps-36) – faráři; sčítání lidu 1869–1921 (fara, kdo tu bydlel).
+- Hotovo (2026-11): faráři 1641–1950 (Podlaha 1911 + matriky 1784–1950); vražda faráře Nekoly 1852; 20. století z webu obce a farnosti Dýšina.
+- Další: Appelova smrt 1902 (plana-ps-32 sn. ~310–317); křty/sňatky čp. 1; sčítání lidu 1869–1921; noviny jaro 1852 (vražda); pozemková kniha – prodej fary; letecké snímky 1950 (CENIA nedostupná).
 - Wikipedia / Commons vrátily 429 – zkusit znovu (článek Planá (Hromnice), fotky kostela a fary).
 - Příběh pribeh_cp1.md napsán jako koncept – čeká na schválení majitelem.
 - web.json: přihlašovací otázku a odpověď musí zvolit majitel před zveřejněním.

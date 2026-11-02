@@ -208,7 +208,7 @@ html_doc = f"""<!doctype html><html lang="cs"><head><meta charset="utf-8"><title
   <div class="t">
     <div class="kicker">Planá u Hromnic · čp. 1</div>
     <h1>Fara v Plané</h1>
-    <div class="sub">Dějiny domu u kostela z matrik, map a knih, 1644 – dnes</div>
+    <div class="sub">Dějiny domu u kostela z matrik, map a knih, 1409 – dnes</div>
     <div class="foot">Sestaveno z digitalizovaných pramenů Státního oblastního archivu v Plzni (Porta fontium),
     Archivu Zeměměřického úřadu (ČÚZK) a Národní knihovny ČR (Kramerius) · listopad 2026<br>
     Na obálce: náves v Plané na mapě stabilního katastru z roku 1839</div>
@@ -218,12 +218,12 @@ html_doc = f"""<!doctype html><html lang="cs"><head><meta charset="utf-8"><title
 <section class="page">
   <div class="kicker">Úvod</div>
   <h2 style="font-size:28pt;margin-top:4pt">Dům, kde žil skladatel</h2>
-  <p class="lead">Bývalá fara čp. 1 stojí v Plané hned vedle kostela. Přes 150 let se tu psaly matriky pro celé okolí.
-  Žili tu mniši z kláštera v Plasích, učení faráři z Prahy i barokní skladatel Jeroným Brixi.</p>
+  <p class="lead">Bývalá fara čp. 1 stojí v Plané hned vedle gotického kostela. Přes 300 let tu žili faráři, kteří psali matriky pro celé okolí:
+  mniši z kláštera v Plasích, barokní skladatel Jeroným Brixi, učenec z Prahy i farář zavražděný loupežníkem.</p>
   <div class="facts">
-    <div><b>1644</b><span>nejstarší matrika fary</span></div>
+    <div><b>1409</b><span>nejstarší známý farář</span></div>
     <div><b>22 let</b><span>tu byl farářem skladatel Jeroným Brixi</span></div>
-    <div><b>9</b><span>známých obyvatel fary 1644–1845</span></div>
+    <div><b>{len(DUM['obyvatele'])}</b><span>známých farářů a obyvatel fary</span></div>
     <div><b>{pocet_zapisu}</b><span>zápisů z pramenů v příloze</span></div>
   </div>
   <p>{e(OBEC['popis'])}</p>
@@ -249,7 +249,7 @@ html_doc = f"""<!doctype html><html lang="cs"><head><meta charset="utf-8"><title
   <h2>Kdo na faře žil</h2>
   <table>{lide()}</table>
   <p class="small" style="margin-top:6pt">Faru vlastnilo farní obročí: do roku 1785 ji spravovali cisterciáci z Plas, potom farnost s faráři jmenovanými císařem.
-  Kdy přešla do soukromých rukou, zatím nevíme.</p>
+  Posledním farářem byl Ludvík Vaníček (do 1950). Kdy fara přešla do soukromých rukou, zatím nevíme.</p>
 </section>
 
 <section class="page">
@@ -279,10 +279,15 @@ html_doc = f"""<!doctype html><html lang="cs"><head><meta charset="utf-8"><title
   <h2>Prameny a literatura</h2>
   <p><strong>Státní oblastní archiv v Plzni</strong>, Sbírka matrik západních Čech, fara Planá (Plzeň-sever):
   Planá (PS) 01 (N 1644–1708, O 1683–1708, Z 1685–1708); Planá (PS) 16 (N, O, Z pro ves Planá 1784–1821);
-  Planá (PS) 21 (Z 1822–1868). Digitálně na portálu Porta fontium, www.portafontium.eu.</p>
+  Planá (PS) 21 (Z 1822–1868); Planá (PS) 32 (Z 1869–1911); Planá (PS) 36 (Z 1911–1949). Digitálně na portálu Porta fontium, www.portafontium.eu.</p>
   <p><strong>Zeměměřický úřad – Archiv ČÚZK</strong>, stabilní katastr: císařský otisk Planá 1839 (B2/a/6C 5802),
   originální mapa (B2/a/4C 5487, reambulace 1870); pozemkový katastr. ags.cuzk.gov.cz/archiv.</p>
   <p><strong>2. vojenské mapování</strong> (1836–1852), © ÚAZK / CENIA, gis.cenia.cz.</p>
+  <p><strong>Antonín Podlaha</strong>, Posvátná místa království Českého, díl II (Vikariát plzeňský), Praha 1911, s. 310–313 (text i fotografie kostela).</p>
+  <p><strong>Adresář církve katolické v republice Československé</strong>, 1928, s. 354.</p>
+  <p><strong>Blahověst</strong>, katolický týdeník, 15. 4. 1852, s. 192 (zpráva o vraždě faráře).</p>
+  <p><strong>Obec Hromnice</strong>, Historie (www.hromnice.cz); <strong>Římskokatolická farnost Dýšina</strong>, Kostel Nanebevzetí Panny Marie v Plané nade Mží (2011).</p>
+  <p><strong>ČÚZK</strong>, Ortofoto ČR (letecký snímek).</p>
   <p><strong>Český slovník bohovědný</strong>, díl II, Praha 1916, s. 501, heslo Brixi. Národní knihovna ČR, Kramerius.</p>
   <p><strong>RÚIAN</strong> (Registr územní identifikace, adres a nemovitostí), ČÚZK – dnešní adresa a parcela.</p>
   <p class="small" style="margin-top:14pt">Brožura vznikla z otevřeného projektu dějin domu. Všechny údaje mají v projektu odkaz na konkrétní snímek pramene.

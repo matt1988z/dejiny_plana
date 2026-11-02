@@ -30,5 +30,13 @@
   "zdroj": "2. vojenské mapování (1836–1852), © ÚAZK / CENIA, gis.cenia.cz",
   "url": "https://gis.cenia.cz/",
   "popis": "Ves na vyvýšené plošině nad zákrutem Mže, kostel s farou červeně. Na jihu Nynice (Ninitz), přes řeku hluboká zalesněná údolí."
+ },
+ {
+  "img": "mapa_plana_letecky_dnes",
+  "rok": "2025",
+  "nazev": "Planá dnes – letecký snímek",
+  "zdroj": "ČÚZK, Ortofoto ČR (WMS ags.cuzk.gov.cz)",
+  "url": "https://ags.cuzk.gov.cz/",
+  "popis": "Dnešní náves v Plané. Střed snímku je dnešní adresa Planá 1. Okolní pole a zákruty cest jsou stejné jako na mapách z 19. století."
  }
 ]

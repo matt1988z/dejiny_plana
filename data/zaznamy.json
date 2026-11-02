@@ -46,7 +46,7 @@
   "druh": "C",
   "datum": "10. 12. 1753",
   "nazev": "Poznámka faráře o převázání matrik a rozšíření kostela (1753)",
-  "shrnuti": "Plaský cisterciák P. Bernard Garda (?), farář v Plané (podle tužkové poznámky přišel 1747), dal 10. 12. 1753 převázat matriky rozežrané červotočem. Zapsal, že za jeho správy byl kostel rozšířen – předtím se do něj vešla sotva polovina lidu; stavba i s věží byla hotova za 24 týdnů. Ve stejné době byly od plánské fary odděleny Olešná a Liblín (dohoda plaského opata Silvestra a pána na Liblíně).",
+  "shrnuti": "Plaský cisterciák P. Silvan Czarda, farář v Plané (podle tužkové poznámky přišel 1747), dal 10. 12. 1753 převázat matriky rozežrané červotočem. Zapsal, že za jeho správy byl kostel rozšířen – předtím se do něj vešla sotva polovina lidu; stavba i s věží byla hotova za 24 týdnů. Ve stejné době byly od plánské fary odděleny Olešná a Liblín (dohoda plaského opata Silvestra a pána na Liblíně).",
   "odkaz": "https://www.portafontium.eu/iipimage/30067035/plana-ps-01_0030-x"
  },
  {
@@ -118,5 +118,85 @@
   "nazev": "Stabilní katastr 1839: fara na pozemku č. 1 u kostela",
   "shrnuti": "Na císařském otisku stabilního katastru (1839) leží fara na stavebním pozemku č. 1 západně od kostela (pozemek 3). Budovy fary jsou růžové, tedy zděné; většina domů ve vsi je žlutá, dřevěná.",
   "odkaz": "https://ags.cuzk.gov.cz/archiv/"
+ },
+ {
+  "klic": "plana_umrti_cp1_hutter_1848",
+  "svazek": "pf_plana-ps-21",
+  "snimek": 422,
+  "druh": "Z",
+  "datum": "22. 10. 1848",
+  "nazev": "Úmrtí faráře a děkana Bernarda Huttera (1848)",
+  "shrnuti": "22. 10. 1848 zemřel na faře čp. 1 „weledůstojný P. Bernard Hutter, farář a děkan plánský“, 65 let, na mrtvici (?). Pohřben 25. 10. v Plané; pohřbil ho plzeňský vikář Antonín Hlaváček (?).",
+  "odkaz": "https://www.portafontium.eu/iipimage/30067055/plana-ps-21_4230-z"
+ },
+ {
+  "klic": "plana_umrti_cp1_nekola_1852",
+  "svazek": "pf_plana-ps-21",
+  "snimek": 425,
+  "druh": "Z",
+  "datum": "2. 4. 1852",
+  "nazev": "Vražda faráře Karla Nekoly na faře (1852)",
+  "shrnuti": "Dne 2. dubna 1852 byl na faře čp. 1 zavražděn farář Karel Nekola, 65 let. Zemřel bez zaopatření (bez posledních svátostí). Soudní ohledání proběhlo 4. dubna, pohřben 6. dubna; pohřbil ho plzeňský vikář Antonín Hlaváček (?).",
+  "odkaz": "https://www.portafontium.eu/iipimage/30067055/plana-ps-21_4260-z"
+ },
+ {
+  "klic": "plana_podpis_vosmik_1854",
+  "svazek": "pf_plana-ps-21",
+  "snimek": 426,
+  "druh": "Z",
+  "datum": "1854",
+  "nazev": "Pohřby vede farář František Vosmík (1854)",
+  "shrnuti": "V roce 1854 podepisuje pohřby v Plané „František Vosmík, farář“ – nástupce zavražděného Karla Nekoly.",
+  "odkaz": "https://www.portafontium.eu/iipimage/30067055/plana-ps-21_4270-z"
+ },
+ {
+  "klic": "plana_podpis_kummer_1856",
+  "svazek": "pf_plana-ps-21",
+  "snimek": 427,
+  "druh": "Z",
+  "datum": "1856",
+  "nazev": "Podpis faráře Karla Kummera (1856)",
+  "shrnuti": "Od roku 1856 stvrzuje zápisy „P. Carl. Kummer“, farář; pohřby vede kooperátor (kaplan) P. Josef Pracner.",
+  "odkaz": "https://www.portafontium.eu/iipimage/30067055/plana-ps-21_4280-z"
+ },
+ {
+  "klic": "plana_podpis_uhlir_1913",
+  "svazek": "pf_plana-ps-36",
+  "snimek": 20,
+  "druh": "Z",
+  "datum": "1913",
+  "nazev": "Farář Jan Uhlíř pohřbívá v Plané (1913)",
+  "shrnuti": "V roce 1913 pohřbívá na hřbitově v Plané farář Jan Uhlíř, s ním kaplan Robert Brousil (?).",
+  "odkaz": "https://www.portafontium.eu/iipimage/30075974/plana-ps-36_0200-z"
+ },
+ {
+  "klic": "plana_podpis_vanicek_1950",
+  "svazek": "pf_plana-ps-36",
+  "snimek": 189,
+  "druh": "Z",
+  "datum": "1. 1. 1950",
+  "nazev": "Farář Ludvík Vaníček uzavírá matriku (1950)",
+  "shrnuti": "Ludvík Vaníček byl farářem v Plané nejméně od roku 1918 do roku 1950. Pod poslední zápisy farní matriky zemřelých připojil uzávěrku: matrika byla uzavřena podle stavu k 1. lednu 1950, kdy vedení matrik převzaly národní výbory. Je tu i farní razítko.",
+  "odkaz": "https://www.portafontium.eu/iipimage/30075974/plana-ps-36_1890-z"
+ },
+ {
+  "klic": "plana_lit_podlaha_1911",
+  "svazek": "",
+  "snimek": 312,
+  "druh": "L",
+  "datum": "1911",
+  "nazev": "Podlaha, Posvátná místa II (1911), s. 310–313: fara Planá",
+  "shrnuti": "Kniha A. Podlahy o kostelích Plzeňska: kostel ze 14. století, nejstarší farář Petr († 1409), zvon z roku 1491, luteránský farář Adler v 16. století, úplná řada farářů 1641–1902 a fotografie kostela z doby kolem 1910.",
+  "odkaz": "https://kramerius5.nkp.cz/view/uuid:31e32b40-293e-11e4-8413-5ef3fc9ae867"
+ },
+ {
+  "klic": "plana_lit_adresar_1928",
+  "svazek": "",
+  "snimek": 354,
+  "druh": "L",
+  "datum": "1928",
+  "nazev": "Adresář církve katolické v ČSR (1928), s. 354: fara Planá",
+  "shrnuti": "Fara Planá, pošta Břasy, 1504 katolíků (česky mluvících). Farář Ludvík Vaníček, narozen 1883, na kněze vysvěcen 1906. Místo kaplana (kooperátora) neobsazené.",
+  "odkaz": "https://kramerius5.nkp.cz/view/uuid:4e5fd8f0-20c4-11e3-b62e-005056825209"
  }
 ]
