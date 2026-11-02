@@ -1,1 +1,34 @@
-[]
+[
+ {
+  "img": "mapa_plana_1839_cely_katastr",
+  "rok": "1839",
+  "nazev": "Stabilní katastr – císařský otisk, katastr Planá",
+  "zdroj": "ČÚZK, Archiv ČÚZK, císařský otisk B2/a/6C 5802, list 2",
+  "url": "https://ags.cuzk.gov.cz/archiv/",
+  "popis": "Celé katastrální území Plané v roce 1839 – ves nad řekou Mží (Mies), okres Plasy (Bezirk Plaß), Plzeňský kraj."
+ },
+ {
+  "img": "mapa_plana_1839_cisarsky_otisk",
+  "rok": "1839",
+  "nazev": "Náves s kostelem a farou (1839)",
+  "zdroj": "ČÚZK, Archiv ČÚZK, císařský otisk B2/a/6C 5802, list 2 (výřez)",
+  "url": "https://ags.cuzk.gov.cz/archiv/",
+  "popis": "Fara stojí na stavební parcele č. 1 západně od kostela (parcela 3). Zděné budovy jsou růžově, dřevěné žlutě – fara, kostel a několik dalších staveb u něj byly už tehdy zděné, většina domů ve vsi dřevěná."
+ },
+ {
+  "img": "mapa_plana_pozemkovy_katastr",
+  "rok": "asi 1900–1950",
+  "nazev": "Pozemkový katastr kolem fary",
+  "zdroj": "ČÚZK, Archiv ČÚZK, pozemkový katastr (georeferencovaná mapa)",
+  "url": "https://ags.cuzk.gov.cz/archiv/",
+  "popis": "Stavební parcela 1 (fara) vpravo nahoře u kostela (parcela 3) – stejné číslo jako v roce 1839; dnes parcela st. 1/1."
+ },
+ {
+  "img": "mapa_plana_1840_2_vojenske_mapovani",
+  "rok": "asi 1840",
+  "nazev": "2. vojenské mapování – Planá nad Mží",
+  "zdroj": "2. vojenské mapování (1836–1852), © ÚAZK / CENIA, gis.cenia.cz",
+  "url": "https://gis.cenia.cz/",
+  "popis": "Ves na vyvýšené plošině nad zákrutem Mže, kostel s farou červeně. Na jihu Nynice (Ninitz), přes řeku hluboká zalesněná údolí."
+ }
+]

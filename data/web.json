@@ -1,6 +1,6 @@
 {
- "nazev": "",
- "popis": "",
+ "nazev": "Fara v Plané",
+ "popis": "Dějiny bývalé fary čp. 1 v Plané u Hromnic z matrik, map a literatury",
  "zapati": "Dohledáno v digitalizovaných pramenech státních oblastních archivů",
  "kontakt": {"jmeno": "", "email": ""},
  "prihlaseni": {
@@ -9,14 +9,17 @@
   "odpoved": ""
  },
  "uvod": {
-  "nadpis": "",
-  "odstavce": [],
-  "foto": "",
-  "foto_popis": ""
+  "nadpis": "Dům, kde žil skladatel",
+  "odstavce": [
+   "Bývalá fara čp. 1 stojí v Plané hned vedle kostela. Přes 150 let se tu psaly matriky pro patnáct vsí v okolí.",
+   "Žili tu mniši z Plas, učení faráři z Prahy i barokní skladatel Jeroným Brixi. Všechno, co tu čtete, má odkaz na původní zápis v archivu."
+  ],
+  "foto": "mapa_plana_1839_cisarsky_otisk",
+  "foto_popis": "Náves v Plané na mapě stabilního katastru 1839. Fara je zděná budova na pozemku č. 1 vlevo od kostela."
  },
- "hlavni_dum": "",
- "pribeh": {"menu": "", "tlacitko": "", "hlavni": ""},
+ "hlavni_dum": "1",
+ "pribeh": {"menu": "Příběh fary", "tlacitko": "Přečíst příběh fary", "hlavni": "cp1"},
  "galerie": {"skupiny": []},
- "zajimavosti_na_uvodu": [],
+ "zajimavosti_na_uvodu": [{"nadpis": "Na faře žil skladatel", "text": "1781–1803 tu jako farář žil cisterciák a skladatel Jeroným Brixi. Zemřel tu na mrtvici v dubnu 1803."}, {"nadpis": "Housle z Prahy", "text": "1815 dostal vesnický kostel housle, violy a violoncello od pražských mistrů a farníci přikoupili trubky a tympány."}, {"nadpis": "Matrika z roku 1644", "text": "Plánské matriky založil uprostřed třicetileté války mnich z Velehradu."}],
  "verejny": false
 }

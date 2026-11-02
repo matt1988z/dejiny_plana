@@ -4,9 +4,9 @@ Tento soubor je vstupní bod. Po každém restartu (nová konverzace, zkrácený
 pak konec `research_log.md` a sekci „Rozpracováno“.
 
 ## O čem to je
-- Obec a hlavní dům: (doplnit – obec, číslo popisné, dnešní adresa)
-- Kdo s Claudem pracuje, jaký má k domu vztah a jak chce komunikovat: (doplnit)
-- Farnost (matriky), panství před 1848, archiv: (doplnit)
+- Obec a hlavní dům: Planá čp. 1 (bývalá fara), 330 11 Hromnice; parcela st. 1/1, k. ú. Planá u Nynic (708402)
+- Kdo s Claudem pracuje: dnešní majitel fary; chce profesionální, obsahově zajímavý výstup s obrázky a příběhy; komunikace česky
+- Farnost: Planá (PS) – sama sídlo fary; matriky SOA Plzeň, Porta fontium, knihy plana-ps-01 až 37 (1644–1949). Panství: Plasy (klášter cisterciáků, zrušen 1785). Stabilní katastr 1839 (cio B2/a/6C 5802, om B2/a/4C 5487).
 
 ## Kde co je
 | Soubor | Obsah |
@@ -36,4 +36,8 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 6. Po změně dat spustím `python3 -I tools/kontrola.py`.
 
 ## Rozpracováno (aktualizovat průběžně)
-- (zatím nic)
+- Hotovo (2026-11): úmrtí čp. 1 1784–1821 (plana-ps-16) kompletně; 1822–1868 (plana-ps-21, sn. 415–437) jen zběžně – dočíst čp. 1 (1837, 1840 a sn. 425–437).
+- Další: křty/sňatky čp. 1 (kuchařky, čeleď), úmrtí 1869–1911 (plana-ps-32) a 1911–1949 (plana-ps-36) – faráři; sčítání lidu 1869–1921 (fara, kdo tu bydlel).
+- Wikipedia / Commons vrátily 429 – zkusit znovu (článek Planá (Hromnice), fotky kostela a fary).
+- Příběh pribeh_cp1.md napsán jako koncept – čeká na schválení majitelem.
+- web.json: přihlašovací otázku a odpověď musí zvolit majitel před zveřejněním.

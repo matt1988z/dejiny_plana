@@ -1,1 +1,86 @@
-{}
+{
+ "plana_umrti_cp1_eugen_1793": {
+  "boxes": [
+   [
+    0.02,
+    0.8,
+    0.98,
+    0.985
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "plana_umrti_cp1_brixi_1803": {
+  "boxes": [
+   [
+    0.02,
+    0.4,
+    0.98,
+    0.98
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "plana_umrti_cp1_nahlowsky_1815": {
+  "boxes": [
+   [
+    0.02,
+    0.27,
+    0.98,
+    0.94
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "plana_umrti_cp1_mikovec_1819": {
+  "boxes": [
+   [
+    0.02,
+    0.05,
+    0.98,
+    0.95
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "plana_podpis_hutter_dekan_1843": {
+  "boxes": [
+   [
+    0.02,
+    0.74,
+    0.98,
+    0.92
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "plana_lit_brixi_slovnik_1916": {
+  "boxes": [
+   [
+    0.0,
+    0.72,
+    1.0,
+    1.0
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "plana_katastr_cp1_1839": {
+  "boxes": [
+   [
+    0.05,
+    0.25,
+    0.62,
+    0.85
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ }
+}

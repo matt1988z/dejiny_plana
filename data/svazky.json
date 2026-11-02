@@ -1,1 +1,26 @@
-{}
+{
+ "pf_plana-ps-01": {
+  "archiv": "SOA Plzeň – Sbírka matrik západních Čech",
+  "portal": "Porta fontium",
+  "svazek": "Planá (PS) 01, Matrika narozených Matrika oddaných Matrika zemřelých",
+  "popis": "Česká Bříza , Čívice (Čiwitz, Tschiwitz), Dobříč (Dobřič, Dobschitsch), Hromnice (Hromitz), Chotiná (Chotina), Jarov (Jarow, Jarau), Kaceřov (Kacerow, Katzerschow, Kačerov), Koryta (Koryt), Kostelec (Kosteletz), Liblín (Liblin), Nadryby (Nadrib, Nadryb), Nynice (Ninitz), Olešná (Woleschna, Volešná) ",
+  "snimku": 314,
+  "url": "https://www.portafontium.eu/register/soap-pn/plana-ps-01"
+ },
+ "pf_plana-ps-16": {
+  "archiv": "SOA Plzeň – Sbírka matrik západních Čech",
+  "portal": "Porta fontium",
+  "svazek": "Planá (PS) 16, Matrika narozených Matrika oddaných Matrika zemřelých Index narozených",
+  "popis": "Planá (Plana); Tauf und Trauungs Buch dann Sterb Register für das Dorf Plania.....1784-1821.",
+  "snimku": 42,
+  "url": "https://www.portafontium.eu/register/soap-pn/plana-ps-16"
+ },
+ "pf_plana-ps-21": {
+  "archiv": "SOA Plzeň – Sbírka matrik západních Čech",
+  "portal": "Porta fontium",
+  "svazek": "Planá (PS) 21, Matrika zemřelých Index zemřelých",
+  "popis": "Čívice (Čiwitz, Tschiwitz), Dobříč (Dobřič, Dobschitsch), Hromnice (Hromitz), Chotiná (Chotina), Jarov (Jarow, Jarau), Kaceřov (Kacerow, Katzerschow, Kačerov), Koryta (Koryt), Kostelec (Kosteletz), Nadryby (Nadrib, Nadryb), Nynice (Ninitz), Planá (Plana), Robčice (Robschitz, Hrobčice), Žichlice (Žih",
+  "snimku": 588,
+  "url": "https://www.portafontium.eu/register/soap-pn/plana-ps-21"
+ }
+}
