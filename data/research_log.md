@@ -20,3 +20,8 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 | 13 | 2026-11-02 | web obce Hromnice, ŘKF Dýšina | Historie; článek o kostele (2011) | 20. století | požár 1949, opravy 1953–55, malby objeveny 1950; Planá k Hromnici 1986 | – |
 | 14 | 2026-11-02 | cs.wikipedia, commons, geoportal.gov.cz, gis.cenia.cz | – | článek, fotky, letecké snímky 1950 | HTTP 429/403/503 – nečteno | – |
 | 15 | 2026-11-02 | ČÚZK ortofoto | výřez ±270 m kolem Planá 1 | letecký snímek dnes | uložen | mapa_plana_letecky_dnes |
+| 16 | 2026-11-02 | Kramerius (noviny) | „Pfarrer“+„Plana“+„ermordet“/„Mörder“, „Nekola“, „Planaer Pfarrers“, „faráře plánského“ | vražda 1852 | Tagesbote 7. 4. 1852, Prager Zeitung 7. 4., Amtsblatt 11. 4. (popis), Prager Zeitung 12. 5. (Radnice) a 18. 5./13. 6. (dementi), Blahověst 15. 4., Český lev 23. 8. 1870 (voják, 18 let) | plana_noviny_* |
+| 17 | 2026-11-02 | ANNO (rakouské noviny) | – | vražda 1852 | spojení selhalo (TLS) – nehledáno | – |
+| 18 | 2026-11-02 | Kramerius | Chytilův adresář 1915 s. 713; Tagesbote 17. 7. 1868; Politik 1. 8. 1900 | Planá 20. stol. | 191 obyv., farář Uhlíř, kaplan Pytlík; Kummer pochválen za očkování; blesk zabil sedláka Brunclíka | plana_lit_chytil_1915 |
+| 19 | 2026-11-02 | cs.wikipedia | Planá (Hromnice) | 20.–21. stol. | 1961–85 část Nynic, od 1986 Hromnice; lípa na kostel 2013 | – |
+| 20 | 2026-11-02 | Profous, Místní jména (Kramerius) | – | původ jména | jen DNNT (nepřístupné bez přihlášení) | – |

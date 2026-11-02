@@ -26,8 +26,8 @@ V lednu 1793 zemřel na faře ve věku 61 let malíř Eugen, nejspíš z Krakova
 ## Fara byla zděná, ves dřevěná
 Na mapě stabilního katastru z roku 1839 jsou zděné budovy růžové a dřevěné žluté. Fara, kostel a pár staveb u nich jsou růžové. Skoro celá ves kolem je žlutá, domy byly dřevěné. Fara stojí na pozemku číslo 1, stejně jako dnes. [Mapa](/zdroj/plana_katastr_cp1_1839/)
 
-## Farář zavražděný loupežníkem
-V pátek 2. dubna 1852 večer zabil na faře lupič faráře Karla Nekolu. Do matriky se do kolonky „nemoc“ zapsalo jediné slovo: vražda. Farář zemřel bez posledních svátostí. Kdo byl vrah, zatím nevíme. [Zápis](/zdroj/plana_umrti_cp1_nekola_1852/)
+## Vrah s dopisem „loupežnického hejtmana“
+V pátek 2. dubna 1852 večer přišel na faru mladík, vydával se za posla z Plzně a nesl dopis podepsaný „Eduardo Murelli, loupežnický hejtman“. Žádal 1000 zlatých, jinak prý dvacet jeho lidí faru vypálí. Farář Karel Nekola padl probodnutý dýkou, kaplan nahoře hrál na klavír a nic neslyšel. Podle novin z roku 1870 byl vrahem voják-hudebník plzeňské posádky. Vojenský soud ho propustil, civilní ho odsoudil na 18 let. [Zpráva z roku 1852](/zdroj/plana_noviny_vrazda_1852_04_07/)
 
 ## Patronem byl kníže Metternich
 Od roku 1826 patřilo plaské panství rakouskému kancléři Klementu Metternichovi. Jako patron se staral o kostel a faru v Plané. Jeden z nejmocnějších politiků Evropy tak měl na starosti i střechu vesnické fary.

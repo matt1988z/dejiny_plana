@@ -49,7 +49,14 @@ OBEC_UDALOSTI = [
          zdroj="ŘKF Dýšina, článek o kostele v Plané (2011)", r=[]),
     dict(rok="1950–1951", text="V presbytáři kostela jsou objeveny gotické nástěnné malby z konce 14. století. Restauroval je F. Fišer.",
          st="lit", zdroj="ŘKF Dýšina, článek o kostele v Plané (2011)", r=[]),
-    dict(rok="1986", text="Planá se stává součástí obce Hromnice.", st="lit", zdroj="web obce Hromnice, Historie", r=[]),
+    dict(rok="1915", text="Planá má 191 obyvatel, starostou je hostinský a rolník František Beránek. Ve vsi je dvojtřídní škola a záložna.",
+         st="lit", zdroj="Chytilův adresář (1915), s. 713", r=["plana_lit_chytil_1915"]),
+    dict(rok="1900", text="Při bouřce v okolí Plzně zabil blesk na jeho dvoře sedláka Brunclíka z Plané.", st="lit",
+         zdroj="Politik, 1. 8. 1900, s. 5", r=[]),
+    dict(rok="1961", text="Planá přestává být samostatnou obcí a připojuje se k Nynicím.", st="lit", zdroj="Wikipedie, Planá (Hromnice)", r=[]),
+    dict(rok="1986", text="Planá se stává součástí obce Hromnice.", st="lit", zdroj="web obce Hromnice, Historie; Wikipedie", r=[]),
+    dict(rok="2013", text="Na střechu kostela padá asi 300 let stará lípa. Střecha je opravena jen zčásti.", st="lit",
+         zdroj="Wikipedie, Planá (Hromnice)", r=[]),
     dict(rok="2026", text="Kostel spravuje římskokatolická farnost Dýšina. Je ve špatném stavu, sbírka na opravu začala v roce 2005.",
          st="lit", zdroj="ŘKF Dýšina (2011); webové vyhledávání", r=[]),
 ]
@@ -84,18 +91,29 @@ D = {
                  r=["plana_podpis_hutter_dekan_1843"]),
             dict(rok="22. 10. 1848", text="Na faře umírá farář a děkan Bernard Hutter, 65 let.", st="doc",
                  r=["plana_umrti_cp1_hutter_1848"]),
-            dict(rok="2. 4. 1852", text="Večer na faře zavraždí loupežný vrah faráře Karla Nekolu. Bylo mu 65 let.", st="doc",
-                 r=["plana_umrti_cp1_nekola_1852", "plana_lit_podlaha_1911"]),
+            dict(rok="2. 4. 1852", text="V půl desáté večer přichází na faru mladý muž s dopisem „loupežnického hejtmana Eduarda Murelliho“, "
+                 "který žádá 1000 zlatých. Farář Karel Nekola padá v pokoji probodnutý dýkou, vrah utíká a nechává tu pistoli.", st="doc",
+                 r=["plana_umrti_cp1_nekola_1852", "plana_noviny_vrazda_1852_04_07", "plana_noviny_blahovest_1852", "plana_lit_podlaha_1911"]),
+            dict(rok="11. 4. 1852", text="Úřady zveřejňují popis hledaného: asi 20–26 let, štíhlý, bledý, černé vlasy, mluví česky se slovenským přízvukem, "
+                 "na cestě z Plzně ho viděli ve vojenském plášti a se šavlí.", st="doc", r=["plana_noviny_patrani_1852_04_11"]),
+            dict(rok="květen 1852", text="Noviny píšou, že vrah je dopaden – syn hostinského z Radnic, kterého udal kamarád kvůli půjčené pistoli. "
+                 "Státní zastupitelství zprávu popírá a pátrá dál.", st="doc",
+                 r=["plana_noviny_vrah_radnice_1852_05_12", "plana_noviny_dementi_1852_06_13"]),
+            dict(rok="1852–1870", text="Podle pozdější vzpomínky byl vrahem voják-hudebník plzeňské posádky. Vojenský soud ho propustil, "
+                 "civilní soud ho na naléhání farářova bratra odsoudil na 18 let.", st="lit", zdroj="Český lev, 23. 8. 1870",
+                 r=["plana_noviny_vojak_1870"]),
             dict(rok="1852–1856", text="Farářem je František Vosmík. Umírá v roce 1856.", st="doc",
                  r=["plana_podpis_vosmik_1854", "plana_lit_podlaha_1911"]),
             dict(rok="1856–1876", text="Faru vede Karel Kummer, vyhlášený kazatel. Ze sbírek dvakrát opravil vnitřek kostela.", st="doc",
                  r=["plana_podpis_kummer_1856", "plana_lit_podlaha_1911"]),
+            dict(rok="1867", text="Farář Karel Kummer dostává úřední pochvalu za „velmi chvályhodnou horlivost“ při očkování proti neštovicím.",
+                 st="lit", zdroj="Tagesbote aus Böhmen, 17. 7. 1868", r=[]),
             dict(rok="1876–1885", text="Farářem je František Eška, předtím farář v Michli.", st="lit", zdroj="Podlaha 1911, s. 313",
                  r=["plana_lit_podlaha_1911"]),
             dict(rok="1885–1902", text="Farářem je Karel Appel, vzdělaný kněz a autor dějin poutního kostela v Tejnici. Umírá v roce 1902.",
                  st="lit", zdroj="Podlaha 1911, s. 313", r=["plana_lit_podlaha_1911"]),
-            dict(rok="1902–asi 1917", text="Farářem je Jan Uhlíř. V roce 1913 s ním na faře působí kaplan.", st="doc",
-                 r=["plana_podpis_uhlir_1913", "plana_lit_podlaha_1911"]),
+            dict(rok="1902–asi 1917", text="Farářem je Jan Uhlíř. V roce 1915 má na faře kaplana Jana Pytlíka, na kůru hraje učitel Bedřich Štrunc.", st="doc",
+                 r=["plana_podpis_uhlir_1913", "plana_lit_chytil_1915", "plana_lit_podlaha_1911"]),
             dict(rok="1918–1950", text="Faru vede Ludvík Vaníček (nar. 1883). Kaplana už nemá. Na počátku roku 1950 uzavírá matriky, "
                  "které převzal stát.", st="doc", r=["plana_lit_adresar_1928", "plana_podpis_vanicek_1950"]),
             dict(rok="po 1950", text="Planá ztrácí vlastního faráře. Farnost a kostel spravuje později farnost Dýšina, "
@@ -138,6 +156,7 @@ D = {
                  st="doc", r=["plana_umrti_cp1_nekola_1852", "plana_lit_podlaha_1911"]),
             dict(n="František Vosmík", y="1852–1856", role="farář", f=["† 1856"], st="doc", r=["plana_podpis_vosmik_1854"]),
             dict(n="Karel Kummer", y="1856–1876", role="farář, kazatel", f=[], st="doc", r=["plana_podpis_kummer_1856"]),
+            dict(n="Jan Pytlík", y="1915", role="kaplan", f=[], st="lit", r=["plana_lit_chytil_1915"]),
             dict(n="P. Josef Pracner", y="1856", role="kooperátor (kaplan)", f=[], st="doc", r=["plana_podpis_kummer_1856"]),
             dict(n="František Eška", y="1876–1885", role="farář", f=[], st="lit", r=["plana_lit_podlaha_1911"]),
             dict(n="Karel Appel", y="1885–1902", role="farář, spisovatel", f=["† 1902"], st="lit", r=["plana_lit_podlaha_1911"]),
@@ -153,8 +172,9 @@ D = {
 ISSUES = [
     ("Kdy byla postavena dnešní budova fary?", "Otevřené: v roce 1839 už stála zděná. Víc by mohl říct stavebně-historický "
      "průzkum nebo spisy fary a plaského velkostatku ve Státním oblastním archivu v Plzni."),
-    ("Kdo zavraždil faráře Nekolu v roce 1852?", "Otevřené: matrika píše jen „vražda“ a soudní ohledání 4. dubna. "
-     "Soudní spisy nebo noviny z jara 1852 by mohly prozradit, zda byl vrah dopaden."),
+    ("Jak se jmenoval vrah faráře Nekoly?", "Hypotéza: podle novin z roku 1870 to byl voják-hudebník plzeňské posádky, odsouzený na 18 let. "
+     "V květnu 1852 noviny psaly o synovi hostinského z Radnic, úřady to ale popřely. Jméno by měly soudní spisy krajského soudu v Plzni "
+     "(Státní oblastní archiv v Plzni) nebo vojenské soudní spisy (Vojenský historický archiv)."),
     ("Kdy odešel z Plané poslední farář?", "Otevřené: Ludvík Vaníček tu byl ještě na začátku roku 1950. Pak faru převzala správa z okolních far."),
     ("Jak se jmenoval malíř Eugen, bratr farní kuchařky?", "Otevřené: příjmení je v matrice špatně čitelné (Molisar?), přišel nejspíš z Krakova. "
      "Nevíme ani, co maloval. Možná obrazy pro kostel?"),

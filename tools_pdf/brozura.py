@@ -285,7 +285,9 @@ html_doc = f"""<!doctype html><html lang="cs"><head><meta charset="utf-8"><title
   <p><strong>2. vojenské mapování</strong> (1836–1852), © ÚAZK / CENIA, gis.cenia.cz.</p>
   <p><strong>Antonín Podlaha</strong>, Posvátná místa království Českého, díl II (Vikariát plzeňský), Praha 1911, s. 310–313 (text i fotografie kostela).</p>
   <p><strong>Adresář církve katolické v republice Československé</strong>, 1928, s. 354.</p>
-  <p><strong>Blahověst</strong>, katolický týdeník, 15. 4. 1852, s. 192 (zpráva o vraždě faráře).</p>
+  <p><strong>Noviny 1852–1870</strong> (Národní knihovna ČR, Kramerius): Tagesbote aus Böhmen 7. 4. 1852; Prager Zeitung 7. 4., 12. 5., 18. 5. a 13. 6. 1852; Amtsblatt zur Prager Zeitung 11. 4. 1852; Blahověst 15. 4. 1852; Český lev 23. 8. 1870; Tagesbote aus Böhmen 17. 7. 1868; Politik 1. 8. 1900.</p>
+  <p><strong>Chytilův úplný adresář Království českého</strong>, 1915, s. 713.</p>
+  <p><strong>Wikipedie</strong>, heslo Planá (Hromnice), stav 2026.</p>
   <p><strong>Obec Hromnice</strong>, Historie (www.hromnice.cz); <strong>Římskokatolická farnost Dýšina</strong>, Kostel Nanebevzetí Panny Marie v Plané nade Mží (2011).</p>
   <p><strong>ČÚZK</strong>, Ortofoto ČR (letecký snímek).</p>
   <p><strong>Český slovník bohovědný</strong>, díl II, Praha 1916, s. 501, heslo Brixi. Národní knihovna ČR, Kramerius.</p>

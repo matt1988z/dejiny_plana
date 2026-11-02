@@ -70,17 +70,27 @@ Patronem kostela a fary byl v té době mocný muž. Plaské panství koupil rok
 
 Hutterovým nástupcem se stal **Karel Nekola**, kněz kolem šedesátky, který ve 20. letech vedl sousední faru v Liblíně. Na Plané pobyl necelé čtyři roky.
 
-V pátek 2. dubna 1852 v půl desáté večer zabil faráře na faře „loupežný vrah“, jak píše Podlaha. Do matriky se ve sloupci „nemoc a způsob smrti“ zapsalo jediné slovo: *vražda*. A pod ním: *„bez zaopatření“*, farář zemřel bez posledních svátostí. O dva dny později proběhlo soudní ohledání těla. Pohřbít ho přijel plzeňský vikář. Katolický týdeník Blahověst zprávu otiskl o dva týdny později s vykřičníkem: *„Nekola Karel, far. v Plané, zavražděn (!)“*. [Zápis o úmrtí](/zdroj/plana_umrti_cp1_nekola_1852/)
+V pátek 2. dubna 1852, v půl desáté večer, zaklepal na okno čeledníku mladý statný muž v černém. Řekl, že je posel z Plzně a nese faráři dopis. Farář ho pustil dál a odvedl do svého pokoje naproti čeledníku. Rozlomil pečeť, pár vět spolu prohodili německy, kterým služky nerozuměly. Pak se ozval výkřik: *„Ježíš Maria!“* Služka vběhla do pokoje. Muž ji odstrčil, vyrazil zamčené dveře a zmizel ve tmě. Farář ležel na podlaze v krvi, probodnutý dýkou. [Zpráva v novinách](/zdroj/plana_noviny_vrazda_1852_04_07/)
 
-![Zápis o úmrtí faráře Karla Nekoly: „Vražda“, duben 1852](/img/plana_umrti_cp1_nekola_1852.jpg)
+![Zpráva o vraždě v listu Tagesbote aus Böhmen ze 7. dubna 1852](/img/plana_noviny_vrazda_1852_04_07.jpg)
 
-Kdo byl vrah a jestli ho dopadli, zatím nevíme.
+Nahoře v pokoji kaplan jako každý večer kolem deváté hrál pro odpočinek na klavír a nic neslyšel. Služky k němu vyběhly, ale hrůzou nemohly promluvit. Kaplan popadl hůl, vyběhl do vsi a budil sousedy, ale pronásledovat vraha se nikdo neodvážil. Ve 23 hodin přijeli dva četníci na koních. Na faře nechybělo nic. U mrtvého ležela dvouhlavňová pistole, kterou vrah ztratil, a dopis:
+
+*„Váš dům je obklíčen dvaceti mými lidmi, já jsem jejich velitel. Chcete-li si zachránit život, buďte zticha jako kostelní myš, a dejte mi ze své pokladny 1000 zlatých, jinak bude ve vašem domě všechno živé zavražděno, vyloupeno a zapáleno. … Eduardo Murelli, loupežnický hejtman.“*
+
+O půlnoci se kaplan dozvěděl, že u obecního pastýře nocuje chlapec, kterého večer starosta ze Zruče poslal ukázat cestu do Plané „vojákovi na dovolené“ v šedém plášti a se šavlí. Chlapec ho dovedl až ke kostelu. Tam se rozešli, voják prý šel do hospody, ale nedošel.
+
+Do matriky se ve sloupci „nemoc“ zapsalo jediné slovo: *vražda*. Farář zemřel bez posledních svátostí. [Zápis o úmrtí](/zdroj/plana_umrti_cp1_nekola_1852/) Úřady o týden později rozeslaly popis hledaného: asi 20–26 let, štíhlý, bledý, černé husté vlasy, jemné ruce, malé nohy, „obratné a zdvořilé chování“, česky mluví se slovenským přízvukem. Na cestě z Plzně do Plané ho viděli v uherských kalhotách se šňůrami a ve vojenském plášti. [Popis hledaného](/zdroj/plana_noviny_patrani_1852_04_11/)
+
+V květnu noviny psaly, že vrah je dopaden: syn hostinského z Radnic, kterého udal kamarád, když mu nevrátil půjčenou pistoli. Státní zastupitelství v Plzni to ale úředně popřelo a pátrání pokračovalo. [Prager Zeitung, 12. 5.](/zdroj/plana_noviny_vrah_radnice_1852_05_12/) · [Oprava](/zdroj/plana_noviny_dementi_1852_06_13/)
+
+Rozuzlení přinesl až po 18 letech plzeňský list Český lev. Vrahem byl podle něj voják z plzeňské posádky a výborný hudebník. Viděli ho jít k faráři a odcházet, na pistoli bylo vyryto jeho jméno. Vojenský soud ho přesto propustil, protože „důstojníci nechtěli jej ztratiti“. Farářův bratr, vyšší úředník ve Vídni, prosadil, že věc převzal civilní soud, a ten vraha odsoudil na 18 let do káznice. [Český lev, 1870](/zdroj/plana_noviny_vojak_1870/) Jméno vraha zatím neznáme. Najít by se dalo v soudních spisech.
 
 ## Kazatelé a učenci (1852–1918)
 
-Po Nekolovi přišel **František Vosmík**, který zemřel už roku 1856. [Podpis](/zdroj/plana_podpis_vosmik_1854/) Pak dvacet let farařil **Karel Kummer**, podle Podlahy „znamenitý kazatel“. Peníze na dvě opravy vnitřku kostela sehnal ze sbírek. Na faře s ním bydlel kaplan, v roce 1856 Josef Pracner. [Podpis](/zdroj/plana_podpis_kummer_1856/)
+Po Nekolovi přišel **František Vosmík**, který zemřel už roku 1856. [Podpis](/zdroj/plana_podpis_vosmik_1854/) Pak dvacet let farařil **Karel Kummer**, podle Podlahy „znamenitý kazatel“. Peníze na dvě opravy vnitřku kostela sehnal ze sbírek. Na faře s ním bydlel kaplan, v roce 1856 Josef Pracner. Úřady Kummera v roce 1868 pochválily za horlivost při očkování lidí proti neštovicím. [Podpis](/zdroj/plana_podpis_kummer_1856/)
 
-V letech 1876–1885 vedl faru **František Eška**, po něm až do své smrti roku 1902 **Karel Appel**, „kněz ušlechtilý a všestranně vzdělaný“. Napsal dějiny poutního kostela v Tejnici u Královic. Pak přišel **Jan Uhlíř**, kterého zachycuje matrika ještě v roce 1913. [Podpis](/zdroj/plana_podpis_uhlir_1913/)
+V letech 1876–1885 vedl faru **František Eška**, po něm až do své smrti roku 1902 **Karel Appel**, „kněz ušlechtilý a všestranně vzdělaný“. Napsal dějiny poutního kostela v Tejnici u Královic. Pak přišel **Jan Uhlíř**. V roce 1915 měl na faře kaplana Jana Pytlíka. Na kůru hrál učitel Bedřich Štrunc. Ves tehdy měla 191 obyvatel, dvojtřídní školu a starostu hostinského Františka Beránka. [Adresář 1915](/zdroj/plana_lit_chytil_1915/) [Podpis](/zdroj/plana_podpis_uhlir_1913/)
 
 Z té doby pochází nejstarší fotografie kostela, kterou známe. Kniha Antonína Podlahy z roku 1911 ukazuje kostel s cibulovou bání a barokní oltáře se znaky plaských opatů.
 
@@ -94,11 +104,11 @@ Vaníček vedl faru přes první republiku, válku i rok 1948. V roce 1949 pošk
 
 ## Po roce 1950
 
-V roce 1950 se v kostele objevily pod omítkou gotické nástěnné malby z konce 14. století: apoštolové a výjevy ze života Krista. V letech 1953–1955 byl kostel po požáru opraven. Planá ale vlastního faráře ztratila. Kostel dnes spravuje farnost Dýšina a fara přestala sloužit svému účelu. Roku 1986 se Planá stala součástí obce Hromnice.
+V roce 1950 se v kostele objevily pod omítkou gotické nástěnné malby z konce 14. století: apoštolové a výjevy ze života Krista. V letech 1953–1955 byl kostel po požáru opraven. Planá ale vlastního faráře ztratila. Kostel dnes spravuje farnost Dýšina a fara přestala sloužit svému účelu. V roce 1961 přestala být Planá samostatnou obcí a připojila se k Nynicím, od roku 1986 patří k Hromnici. V roce 2013 spadla na střechu kostela asi 300 let stará lípa.
 
 ## Co ještě nevíme
 
-Kdy přesně byla dnešní budova fary postavena? Kdo zabil faráře Nekolu? Kdy odešel poslední farář a kdy fara přešla do soukromých rukou? Odpovědi mohou být v pamětní knize fary, v soudních spisech a novinách z jara 1852 a v pozemkové knize.
+Kdy přesně byla dnešní budova fary postavena? Jak se jmenoval voják, který zabil faráře Nekolu? Kdy odešel poslední farář a kdy fara přešla do soukromých rukou? Odpovědi mohou být v pamětní knize fary, v soudních spisech a novinách z jara 1852 a v pozemkové knize.
 
 ## Dnes
 
