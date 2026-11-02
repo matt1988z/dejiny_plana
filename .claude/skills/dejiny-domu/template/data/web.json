@@ -1,0 +1,22 @@
+{
+ "nazev": "",
+ "popis": "",
+ "zapati": "Dohledáno v digitalizovaných pramenech státních oblastních archivů",
+ "kontakt": {"jmeno": "", "email": ""},
+ "prihlaseni": {
+  "uvod": "Tenhle web je zatím jen pro známé.",
+  "otazka": "",
+  "odpoved": ""
+ },
+ "uvod": {
+  "nadpis": "",
+  "odstavce": [],
+  "foto": "",
+  "foto_popis": ""
+ },
+ "hlavni_dum": "",
+ "pribeh": {"menu": "", "tlacitko": "", "hlavni": ""},
+ "galerie": {"skupiny": []},
+ "zajimavosti_na_uvodu": [],
+ "verejny": false
+}

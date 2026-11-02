@@ -1,0 +1,22 @@
+---
+import Base from '../layouts/Base.astro';
+import { issues, config } from '../lib/data.js';
+import { Content as Dotazy } from '../generated/dotazy.md';
+---
+<Base title="Co hledáme">
+  <h1>Co ještě hledáme</h1>
+  <p class="lead">Otevřené otázky a hypotézy. Pokud o něčem z toho víte z vyprávění nebo dokumentů, ozvěte se{config.kontakt?.email ? <> na <a href={`mailto:${config.kontakt.email}`}>{config.kontakt.email}</a></> : ' autorovi webu'}.</p>
+  <h2>Otevřené otázky</h2>
+  <div class="grid2">
+    {issues.filter((i) => !i.text.startsWith('Vyřešeno')).map((i) => (
+      <div class="card">
+        <span class={`chip status-chip ${i.text.startsWith('Vyřešeno') ? 'st-doc' : i.text.startsWith('Hypotéza') ? 'st-prob' : 'st-unk'}`}>{i.text.split(':')[0]}</span>
+        <h3>{i.title}</h3>
+        <p class="small">{i.text.slice(i.text.indexOf(':') + 1).trim()}</p>
+      </div>
+    ))}
+  </div>
+  <h2>Prameny mimo internet</h2>
+  <div class="prose small"><Dotazy /></div>
+  <p><a class="btn btn-ghost" href="/denik/">Výzkumný deník – všechna hledání včetně neúspěšných →</a></p>
+</Base>

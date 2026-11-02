@@ -1,0 +1,45 @@
+---
+import Base from '../layouts/Base.astro';
+import HouseLink from '../components/HouseLink.astro';
+import { recordList, dateKey, href } from '../lib/data.js';
+const list = [...recordList].sort((a, b) => dateKey(a.date) - dateKey(b.date));
+const kinds = [...new Set(list.map((r) => r.kindName))];
+---
+<Base title="Prameny">
+  <h1>Prameny</h1>
+  <p class="lead">Všech {list.length} zápisů z matrik, gruntovních knih, katastrů, sčítání a literatury – chronologicky. U každého je výřez snímku s vyznačeným místem, plné rozlišení a odkaz do archivu. Co zatím chybí nebo si odporuje, najdete v přehledu <a href="/hledame/">co ještě hledáme</a>.</p>
+  <div class="filters" role="group" aria-label="Filtr podle druhu pramene">
+    <button class="filter" data-k="" type="button" aria-pressed="true">vše <span>{list.length}</span></button>
+    {kinds.map((k) => <button class="filter" data-k={k} type="button" aria-pressed="false">{k} <span>{list.filter((r) => r.kindName === k).length}</span></button>)}
+  </div>
+  <div class="table-box"><table>
+    <thead><tr><th>Datum</th><th>Druh</th><th>Zápis</th><th>Dům</th></tr></thead>
+    <tbody>
+      {list.map((r) => (
+        <tr data-kind={r.kindName}>
+          <td class="small" style="white-space:nowrap">{r.date}</td>
+          <td class="small">{r.kindName}</td>
+          <td><a href={href.record(r.key)}>{r.title}</a><div class="small muted">{r.volume || r.vdesc}</div>
+            {r.orig && (
+              <details class="transcript">
+                <summary>Text pramene a překlad</summary>
+                <div class="tr-grid"><div><h4>Přepis originálu</h4><p class="tr-orig">{r.orig}</p></div><div><h4>Překlad</h4><p class="tr-cs">{r.cs}</p></div></div>
+              </details>
+            )}
+          </td>
+          <td class="small">{r.houses.map((s, i) => <>{i > 0 && ', '}<HouseLink slug={s} /></>)}{r.village && <>{r.houses.length ? ', ' : ''}<a href="/obec/">obec</a></>}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table></div>
+  <script>
+    document.querySelectorAll<HTMLButtonElement>('button[data-k]').forEach((b) =>
+      b.addEventListener('click', () => {
+        document.querySelectorAll('button[data-k]').forEach((x) => x.setAttribute('aria-pressed', String(x === b)));
+        document.querySelectorAll<HTMLTableRowElement>('tr[data-kind]').forEach((tr) => {
+          tr.hidden = !!b.dataset.k && tr.dataset.kind !== b.dataset.k;
+        });
+      })
+    );
+  </script>
+</Base>
